@@ -16,7 +16,7 @@ pod 'PBSudoku'
 ```
 
 ## Usage
-- Level을 설정해줍니다. 1,2,3 레벨이 존재하며 이 외의 레벨 입력 시 Level 3으로 간주합니다.
+- Level을 설정해줍니다. 1,2,3 레벨이 존재하며 이 외의 레벨 입력 시 Level이 3인 스도쿠가 생성됩니다.
 ```swift
 public func setLevel(level : Int)
 ```
