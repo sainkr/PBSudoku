@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/PBSudoku.svg?style=flat)](https://cocoapods.org/pods/PBSudoku)
 
 # PBSudoku
-스도쿠를 생성 라이브러리입니다.
+스도쿠 생성 라이브러리입니다.
 
 ## Installation
 
