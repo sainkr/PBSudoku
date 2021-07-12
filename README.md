@@ -40,6 +40,9 @@ let original_sudoku = sudoku.original_sudoku
 let game_sudoku = sudoku.game_sudoku
 ```
 
+## 알고리즘에 대한 
+https://velog.io/@sainkr/TIL-2021.03.15
+
 ## Author
 
 sainkr, raebadnap@naver.com
