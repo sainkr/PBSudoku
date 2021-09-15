@@ -23,7 +23,7 @@ class ViewController: UIViewController {
 
     @IBAction func buttonTapped(_ sender: Any) {
  
-        sudoku.setLevel(level: 1)
+        sudoku.setLevel(level: 3)
     
         print(sudoku.game_sudoku)
         print(sudoku.original_sudoku)

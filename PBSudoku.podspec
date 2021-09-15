@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PBSudoku'
-  s.version          = '0.1.1'
+  s.version          = '0.1.4'
   s.summary          = 'Sudoku genorator'
   s.swift_versions = '5.0'
 
